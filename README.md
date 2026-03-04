@@ -16,6 +16,7 @@ This project includes hands-on learning and implementation of:
 * ⚡ **Express.js** – Backend framework for Node.js
 * 🖥 **Node.js** – JavaScript runtime
 * 🔄 **Nodemon** – Auto-restart server during development
+* 📁 **Multer** – Handling file uploads (such as images or files) in Node.js applications
 
 ---
 
@@ -25,6 +26,7 @@ This project includes hands-on learning and implementation of:
 * To understand authentication using JWT
 * To practice creating REST APIs
 * To learn how to connect MongoDB with Node.js
+* To handle **file uploads using Multer**
 * To structure backend projects properly
 
 This is a **learning-focused backend project**, built step-by-step while exploring backend development concepts.
@@ -38,6 +40,7 @@ This is a **learning-focused backend project**, built step-by-step while explori
 * MongoDB
 * Mongoose
 * JWT
+* Multer
 * Nodemon
 
 ---
